@@ -148,3 +148,4 @@ The site will run on `http://localhost:5173/`.
 - **Luxury Gold:** `#D4AF37` (Gradient: `#FDE047` to `#AA7C11`)
 - **Bold Photography Red:** `#E50914`
 - **Warm Ivory:** `#F5F0E8`
+# advika_photo_studio
