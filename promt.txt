@@ -1,0 +1,25 @@
+MASTER PROMPT — ADVIKA PHOTO, FILM & GRAPHICS WEBSITE
+
+Brand Name: Advika Photo, Film & Graphics
+Tagline: Capturing Moments, Creating Memories
+Instagram: @advika_visuals (https://www.instagram.com/advika_visuals/)
+Location: Nimon, Taluka Sangamner, District Ahilyanagar, Maharashtra, India
+Contact Numbers: +91 95298 38773, +91 93092 85266
+WhatsApp: +91 95298 38773
+
+1. TECH STACK: React JS + Vite, Tailwind CSS, Lucide React, Framer Motion.
+2. DESIGN DIRECTION: Deep cinematic black (#090909), Charcoal (#171717), Gold (#D4AF37), Bold Photography Red (#E50914), Warm Ivory (#F5F0E8).
+3. SECTIONS:
+- Header & Sticky Navbar with Mobile Drawer
+- Cinematic Hero with camera overlays, stats, scroll indicator
+- About Studio with editorial layout, photo collage & numbers
+- Comprehensive Services categorized: Photography, Films & Cinematography, Graphics & Editing
+- Portfolio / Gallery with multi-category filters & Lightbox modal
+- Cinematic Films showcase with video preview modal
+- Why Choose Us (6 Pillars of Excellence)
+- 4-Step Booking Process
+- Client Testimonials carousel
+- Contact Section with direct dial, Instagram link, Google Maps
+- Professional Booking Modal with field groups, validation, date/time picker, and dynamic WhatsApp URL generation to +919529838773
+- Floating WhatsApp Button with pulse effect
+- Dark luxury Footer with film strip detailing and dynamic year.

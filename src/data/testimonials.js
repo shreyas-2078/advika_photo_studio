@@ -1,0 +1,38 @@
+export const TESTIMONIALS = [
+  {
+    id: 1,
+    name: "Siddharth & Shraddha Kulkarni",
+    event: "Wedding & Pre-Wedding Film",
+    location: "Sangamner",
+    stars: 5,
+    quote: "Advika Photo & Films made our wedding look like a Bollywood movie! The cinematic teaser brought tears to our eyes. Their entire team was polite, punctual, and captured our candid moments so naturally.",
+    date: "November 2025",
+  },
+  {
+    id: 2,
+    name: "Dr. Nilesh & Priya Deshmukh",
+    event: "Royal Wedding Photography",
+    location: "Ahilyanagar",
+    stars: 5,
+    quote: "The album design and photo clarity are world-class. From the Haldi vibes to the Grand Reception, not a single ritual was missed. The best photography studio in our region by far!",
+    date: "January 2026",
+  },
+  {
+    id: 3,
+    name: "Amit & Tejaswini Patil",
+    event: "Outdoor Destination Pre-Wedding",
+    location: "Bhandardara Hills",
+    stars: 5,
+    quote: "We were very camera-shy, but their creative direction made us feel so relaxed and confident. The drone shots and sunset clips were breathtaking. Truly worth every rupee!",
+    date: "December 2025",
+  },
+  {
+    id: 4,
+    name: "Rohit Jadhav",
+    event: "Brand Ad Shoot & Graphics",
+    location: "Pune & Sangamner",
+    stars: 5,
+    quote: "Fast turnaround, top-tier graphic designing, and razor-sharp video edits for our commercial launch. Advika's creative vision gave our brand a luxury appeal.",
+    date: "February 2026",
+  },
+];
